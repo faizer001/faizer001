@@ -7,8 +7,9 @@ Skills: HTML / C/CPP
 - 🔭 I’m currently working on  Soft Developing  
 - 🌱 I’m currently learning C++ 
 - 👯 I’m looking to collaborate on github 
-
-
+-   ![image](https://user-images.githubusercontent.com/99070117/185185816-8cca2a1a-3e2f-4e64-be1e-56aa98b5f5b5.png) you have to reach me :faizarislam@gmail.com
+ 
+-  code forces:https://codeforces.com/profile/faizar01
 
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
