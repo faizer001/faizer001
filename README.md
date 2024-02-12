@@ -7,8 +7,6 @@ Skills: HTML / C / C++ / java / C# / CSS / javaScript
 - 🔭 I’m currently working on  Soft Developing  
 - 🌱 I’m currently learning C++ 
 - 👯 I’m looking to collaborate on github 
--  ![image](https://user-images.githubusercontent.com/99070117/185186658-3248f731-aaa4-45b2-9380-9314e2a24aa2.png)
-
     you have to reach me :faizarislam@gmail.com
 
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
