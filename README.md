@@ -2,7 +2,7 @@
 #### problem solver.
 Assalamualikum .I am not interested to say anything myself.
 
-Skills: HTML / C/CPP
+Skills: HTML / C / C++ / java / C# / CSS / javaScript
 
 - 🔭 I’m currently working on  Soft Developing  
 - 🌱 I’m currently learning C++ 
