@@ -16,4 +16,4 @@ Skills: HTML / C / C++ / java / C# / CSS / javaScript
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=faizer001)  
 
 ![Profile views](https://gpvc.arturio.dev/faizer001)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=faizer001)](https://github.com/ryo-ma/github-profile-trophy)
+
